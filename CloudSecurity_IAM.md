@@ -2,7 +2,8 @@
 
 # Cloud Security with AWS IAM
 
-**Project Link:** [View Project](http://nextwork.ai/projects/aws-security-iam)
+**Project Link:** [View Project](http://nextwork.ai/projects/aws-security-iam)\
+**Live Link:** [View Complete Documentation](https://nextwork.ai/appreciative_violet_wise_kiwano/docs/51a5fd24-7458-58a6-8653-9b90119a0e4a)
 
 **Author:** paucv27  
 **Email:** paucv27@gmail.com

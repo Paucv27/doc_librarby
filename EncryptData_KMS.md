@@ -2,7 +2,8 @@
 
 # Encrypt Data with AWS KMS
 
-**Project Link:** [View Project](http://nextwork.ai/projects/aws-security-kms)
+**Project Link:** [View Project](http://nextwork.ai/projects/aws-security-kms)\
+**Live Link:** [View Complete Documentation](https://nextwork.ai/appreciative_violet_wise_kiwano/docs/716e7f81-84d1-51d6-8945-d4860caebf77)
 
 **Author:** paucv27  
 **Email:** paucv27@gmail.com

@@ -2,7 +2,8 @@
 
 # Threat Detection with GuardDuty
 
-**Project Link:** [View Project](http://nextwork.ai/projects/aws-security-guardduty)
+**Project Link:** [View Project](http://nextwork.ai/projects/aws-security-guardduty)\
+**Live Link:** [View Complete Documentation](https://nextwork.ai/appreciative_violet_wise_kiwano/docs/d3694045-8dc9-5910-99bc-061c82f1bccd)
 
 **Author:** paucv27  
 **Email:** paucv27@gmail.com
